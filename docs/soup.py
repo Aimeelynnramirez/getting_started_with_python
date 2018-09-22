@@ -1,6 +1,6 @@
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
-with open("index.html") as fp:
-    soup = BeautifulSoup(fp)
+# with open("index.html") as fp:
+#     soup = BeautifulSoup(fp)
 
-soup = BeautifulSoup("<html>data</html>")
+# soup = BeautifulSoup("<html>data</html>")
