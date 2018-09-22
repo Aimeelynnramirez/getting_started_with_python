@@ -1,7 +1,7 @@
 # getting_started_with_python
 Check the Site:
 https://aimeelynnramirez.github.io/getting_started_with_python/
-
+#selflearning
 Hey there, everybody.
 Let's run some python! 
 This is a good way to learn variables, numeric data types, strings, lists, sets, etc.
