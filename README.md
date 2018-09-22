@@ -16,4 +16,4 @@ This is how you would install it in your terminal:
 https://docs.brew.sh/Homebrew-and-Python
 
 https://pip.readthedocs.io/en/stable/installing/
-`code to be run placer` 
+`python file.py` 
