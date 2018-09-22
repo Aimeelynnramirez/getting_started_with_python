@@ -9,9 +9,9 @@ Local Setup
 
 `git clone https://github.com/Aimeelynnramirez/getting_started_with_python.git`
 ```
-`cd getting_started_with_python`
+cd getting_started_with_python
 
-
+```
 
 # In your python environment run: 
 
