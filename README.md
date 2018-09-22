@@ -8,6 +8,7 @@ This is a good way to learn variables, numeric data types, strings, lists, sets,
 Local Setup
 
 `git clone https://github.com/Aimeelynnramirez/getting_started_with_python.git`
+------------------------------------------
 `cd getting_started_with_python`
 
 
