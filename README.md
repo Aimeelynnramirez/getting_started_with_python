@@ -15,5 +15,8 @@ This is how you would install it in your terminal:
 
 https://docs.brew.sh/Homebrew-and-Python
 
-https://pip.readthedocs.io/en/stable/installing/
+
+
+------------------------------------------
+
 `python file.py` 
