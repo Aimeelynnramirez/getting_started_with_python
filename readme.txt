@@ -11,3 +11,4 @@ This is how you would install it in your terminal:
 
 https://docs.brew.sh/Homebrew-and-Python
 
+🕷
