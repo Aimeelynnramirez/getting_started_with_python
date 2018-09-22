@@ -18,5 +18,10 @@ https://docs.brew.sh/Homebrew-and-Python
 
 
 ------------------------------------------
+# In your python environment run: 
 
 `python file.py` 
+
+- your outcome should be 
+`python file.py`                                     
+`150`
