@@ -1,4 +1,6 @@
 # getting_started_with_python
+Check the Site:
+https://aimeelynnramirez.github.io/getting_started_with_python/
 
 Hey there, everybody.
 Let's run some python! 
