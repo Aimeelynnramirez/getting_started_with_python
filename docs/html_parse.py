@@ -33,3 +33,14 @@ print(soup.prettify())
 print(soup.get_text())
 
 
+doc = '''Bob reports <a href="http://www.bob.com/">success</a>
+with his plasma breeding <a
+href="http://www.bob.com/plasma">experiments</a>. <i>Don't get any on
+us, Bob!</i>
+
+<br><br>Ever hear of annular fusion? The folks at <a
+href="http://www.boogabooga.net/">BoogaBooga</a> sure seem obsessed
+with it. Secret project, or <b>WEB MADNESS?</b> You decide!'''
+
+print(doc)
+#simple call for the var in id
